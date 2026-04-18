@@ -23,7 +23,7 @@
 
 
 ## Automation Video
-![Watch Video](https://drive.google.com/file/d/1OcPFiNkP5KrCDgZRcwMZ-3fzqOwiMqzl/view?usp=drive_link)
+[Watch Video](https://drive.google.com/file/d/1OcPFiNkP5KrCDgZRcwMZ-3fzqOwiMqzl/view?usp=drive_link)
 
 ```bash
 npm install
