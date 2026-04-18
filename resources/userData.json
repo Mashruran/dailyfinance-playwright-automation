@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Callie",
+    "lastName": "Heaney",
+    "email": "matata.ext+6117@gmail.com",
+    "password": "12345",
+    "phoneNumber": "01303834613",
+    "address": "Murray"
+  },
+  {
+    "firstName": "Reginald",
+    "lastName": "Graham",
+    "email": "matata.ext+6670@gmail.com",
+    "password": "12345",
+    "phoneNumber": "01305023607",
+    "address": "Tucson"
+  },
+  {
+    "firstName": "Frederick",
+    "lastName": "Grady",
+    "email": "matata.ext+8274@gmail.com",
+    "password": "12345",
+    "phoneNumber": "01308962563",
+    "address": "South Brendabury"
+  }
+]
